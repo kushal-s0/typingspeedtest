@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="./tying test/demo.png" />
+  <img alt="Demo" src="./typing test/demo.png" />
 </div>
 <center>
 </center>
